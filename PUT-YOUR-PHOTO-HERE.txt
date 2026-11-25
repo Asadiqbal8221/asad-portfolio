@@ -1,0 +1,3 @@
+Copy your portrait photo into this folder and rename it exactly to: asad-profile.png
+Recommended: transparent-background PNG/WebP, full upper body, facing forward or slightly angled.
+The website image path is: assets/asad-profile.png
